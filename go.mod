@@ -1,3 +1,3 @@
-module "rsc.io/quote"
+module rsc.io/quote
 
-require "rsc.io/sampler" v1.0.0
+require rsc.io/sampler v1.0.0
